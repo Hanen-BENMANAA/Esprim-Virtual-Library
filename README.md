@@ -54,7 +54,7 @@ git clone https://github.com/Hanen-BENMANAA/espBib.git
 2. Setup Backend
    
    # Navigate to backend directory
-   cd backend
+   cd backend/src
    
    # Install dependencies
    npm install
