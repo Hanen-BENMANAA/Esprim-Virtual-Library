@@ -49,7 +49,7 @@ Git
 
 1. Clone the repository
    
-git clone https://github.com/Hanen-BENMANAA/espBib.git
+git clone https://github.com/Hanen-BENMANAA/Esprim-Virtual-Library.git
 
 2. Setup Backend
    
