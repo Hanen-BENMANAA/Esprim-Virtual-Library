@@ -7,3 +7,8 @@ dist/
 # Optional common ignores
 .env
 .DS_Store
+
+.env
+node_modules/
+uploads/
+*.pdf
