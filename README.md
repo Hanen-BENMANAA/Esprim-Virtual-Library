@@ -102,10 +102,10 @@
 
 | Couche | Technologie |
 |---|---|
-| Frontend | _à compléter_ |
-| Backend | _à compléter_ |
-| Base de données | _à compléter_ |
-| Authentification | JWT + 2FA TOTP _(à confirmer)_ |
+| Frontend | _React (JavaScript / JSX)_ |
+| Backend | _Node.js, API REST_ |
+| Base de données | _PostgreSQL_ |
+| Authentification | JWT (expiration 24 h), bcrypt, 2FA TOTP_ |
 
 ## 🚀 Installation
 
@@ -138,9 +138,6 @@ npm run dev
 
 ## 👤 Auteur
 
-**<Ton nom>**, ESPRIM, année académique 2025-2026
-[GitHub](https://github.com/<ton-utilisateur>) · [LinkedIn](https://linkedin.com/in/<ton-profil>)
+**Hanen BENMANAA**, ESPRIM, année académique 2025-2026
+[GitHub](https://github.com/Hanen-BENMANAA) · [LinkedIn](https://www.linkedin.com/in/hanen-benmanaa/)
 
-## 📄 Licence
-
-À définir (par exemple MIT).
